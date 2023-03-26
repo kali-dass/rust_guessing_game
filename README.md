@@ -10,3 +10,13 @@ run cargo
 ```
 cargo run
 ```
+
+build cargo code
+```
+cargo build
+```
+
+update dependencies
+```
+cargo update
+```
