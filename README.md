@@ -1,2 +1,12 @@
 # rust_guessing_game
-Rust guessing Game
+
+## commands
+create new project
+```
+cargo new rust_guessing_game
+```
+
+run cargo
+```
+cargo run
+```
